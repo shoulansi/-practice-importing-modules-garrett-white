@@ -11,4 +11,4 @@ taskManager.addTask(tasks, "Watch movie");
 taskManager.addTask(tasks, "Jump through hoops");
 taskManager.listTasks(tasks);
 
-fileHandler.saveTasks(filePath, tasks);
+fileHandler.saveTasks(tasks);
